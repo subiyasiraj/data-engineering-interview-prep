@@ -1,1 +1,1 @@
-Python DSA probkems related to arrays.
+Python DSA problems related to arrays.
