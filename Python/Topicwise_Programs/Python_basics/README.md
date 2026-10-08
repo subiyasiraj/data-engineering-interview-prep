@@ -223,5 +223,3 @@ duration = int(...)
 ```
 
 is type conversion.
-
-Whereas:
