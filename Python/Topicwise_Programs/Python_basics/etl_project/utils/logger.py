@@ -1,6 +1,6 @@
 import logging
 
-def getlog(name="etl"):
+def get_logger(name="etl"):
     logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)
     if not logger.handlers:
