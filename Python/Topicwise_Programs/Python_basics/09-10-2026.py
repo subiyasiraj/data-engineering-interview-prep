@@ -1,4 +1,4 @@
-```python
+
 from statistics import mean
 
 
